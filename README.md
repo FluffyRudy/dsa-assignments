@@ -1,2 +1,2 @@
 # dsa-assignments
-DSA assignment from <a href="https://theodinproject.com" target="_blank">theodinproject.com</a>
+DSA assignment from [theodinproject.com](https://theodinproject.com){:target="_blank"}
