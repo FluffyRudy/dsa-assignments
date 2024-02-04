@@ -130,5 +130,6 @@ class Grid {
 }
 
 const grid = new Grid(5, 5);
-console.log(grid.gridArray);
-console.log(grid.DFS([0, 0]));
+console.log("Grid: ", grid.gridArray);
+console.log("DFS: ", grid.DFS([0, 0]));
+console.log("BFS: ", grid.BFS([0, 0]));
