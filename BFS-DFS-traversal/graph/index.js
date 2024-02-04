@@ -2,7 +2,8 @@
  * Class representing a Graph.
  *
  * @class
- * @classdesc This class represents a graph data structure.
+ * @classdesc This class represents a graph data structure
+ *            with BFS and DFS traversal method for it.
  */
 class Graph {
     /**
